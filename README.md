@@ -1,6 +1,8 @@
 # NoteTaker
 Express.js Note Taker
 # Note Taker
+![image](https://user-images.githubusercontent.com/76639155/125209291-a5ae7d80-e24c-11eb-9125-abb6c7b494bc.png)
+
 
 # App URL
 https://mighty-falls-15067.herokuapp.com/
